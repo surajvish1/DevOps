@@ -36,7 +36,7 @@ PDF_FILE="system_info.pdf"
   echo ""
   
   # CPU Info
-  echo "CPU Information:"
+  echo "CPU Information and Usage:"
   lscpu
   echo ""
   
